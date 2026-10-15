@@ -1,8 +1,8 @@
 #server-stats/devops
 
-A simple Bash script that shows basic performance stats for any Linux server.
+A simple Bash script that shows basic performance stats for any Linux server
 
-Project from the roadmap.sh DevOps projects: https://roadmap.sh/devops
+Project from the roadmap.sh DevOps projects: https://roadmap.sh/projects/server-stats
 
 ## What it shows
 
