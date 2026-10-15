@@ -1,8 +1,8 @@
-# Server Stats
+#server-stats/devops
 
 A simple Bash script that shows basic performance stats for any Linux server.
 
-Project from the roadmap.sh DevOps projects: **PASTE THE PROJECT PAGE URL HERE**
+Project from the roadmap.sh DevOps projects: https://roadmap.sh/devops
 
 ## What it shows
 
@@ -11,13 +11,12 @@ Project from the roadmap.sh DevOps projects: **PASTE THE PROJECT PAGE URL HERE**
 - Total disk usage (used vs free, with percentage)
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
-- Extra stats: OS version, uptime, load average, logged-in users, failed login attempts
-
+- 
 ## How to run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/server-stats.git
+   git clone 
    cd server-stats
    ```
 2. Make the script executable:
